@@ -1,0 +1,40 @@
+{
+  "Moteur": {
+    "Moteur": "4 cylindres en ligne ",
+    "cylindrée": "1800 cm³ à 16 soupapes",
+    "position": "Transversal Central",
+    "type": "injection directe Turbo",
+    "Puissance Maxi": "252 ch (185 kW) à 6000 tr/min (Régime Maxi 6500 tr/min)",
+    "Pression moyenne effective": "21.5 bars",
+    "Emissions de CO²": "139 g/kmC",
+    "Puissance fiscale": "15 cv"
+  },
+  "transmission": {
+    "type": "Propulsion",
+    "Couple Maxi": "320 Nm (32.6 mkg)",
+    "Ratios": "140 ch/L (103 kW/L) - 178 Nm/L",
+    "boite de vistesse": "Automatique à double embrayage",
+    "nombre de rapports": "7 rapports avec mode séquentiel",
+    "Réserve de couple": "8 %"
+  },
+  "Trains": {
+    "Pneus": "205/40/18 AV - 235/40/18  AR",
+    "Freins AV": "Disques ventilés (320mm) étriers fixes 4 pistons",
+    "Freins AR": "Disques pleins (320mm) étriers flottants mono piston"
+  },
+  "Dimenssion": {
+    "dimenssion": "4178 x 1798 x 1252 mm - Garde au sol manquante",
+    "Empattement": "2419 mm - Voies = AV 1556 mm / AR 1553 mm Porte-à-faux manquants",
+    "Poids annoncé": "1103 kg (DIN) 1178 kg (UE) Poids UE en marche = 1178 kg (le plus élevé mesuré)"
+  },
+  "Aerodynamique": {
+    "SCx": "0.62 / Cx = 0.32"
+  },
+  "Indices": "2017-09-18T12:16:03.979Z",
+  "autres": {
+    "Consommation mixte normalisée": "6.2 L/100",
+    "Capacité du réservoir": "45 litres",
+    "Prix de base neuf indicatif": "~58 500 €",
+    "Année de lancement": "2017"
+  }
+}
