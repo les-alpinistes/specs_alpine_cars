@@ -25,13 +25,12 @@
   "Dimenssion": {
     "dimenssion": "4178 x 1798 x 1252 mm - Garde au sol manquante",
     "Empattement": "2419 mm - Voies = AV 1556 mm / AR 1553 mm Porte-à-faux manquants",
-    "Poids annoncé": "1103 kg (DIN) 1178 kg (UE) Poids UE en marche = 1178 kg (le plus élevé mesuré)"
+    "Poids annoncé": "1103 kg (DIN) 1178 kg (UE) Poids UE en marche = 1178 kg"
   },
   "Aerodynamique": {
     "SCx": "0.62 / Cx = 0.32"
   },
-  "Indices": "2017-09-18T12:16:03.979Z",
-  "autres": {
+  "Divers": {
     "Consommation mixte normalisée": "6.2 L/100",
     "Capacité du réservoir": "45 litres",
     "Prix de base neuf indicatif": "~58 500 €",
