@@ -1,0 +1,61 @@
+//Palmarès Nelson Panciatici
+{
+	"Palmarès": {
+		"2008": "Vice champion d’Espagne de F3",
+		"2013": "Champion d’Europe LMP2 (ELMS)",
+		"2014": "Champion d’Europe LMP2 (ELMS)",
+		"2015": "Championnat WEC 18e (4e LMP2)"
+	}
+}
+
+//Palmarès Pierre RAGUES
+{
+	"Palmarès": {
+		"2008": "Le Mans Series (LMP2), 5ème",
+		"2009": "Le Mans Series (LMP1), 6ème",
+		"2010": "Le Mans Series (LMP1), 2ème",
+		"2011": "Intercontinental Le Mans Cup (LMP1), 5ème",
+		"2013": "Champion European Le Mans Series"
+	}
+}
+
+//Palmarès Paul-Loup CHATIN
+{
+	"Palmarès": {
+		"2010": "Vainqueur du Volant EuroFormula",
+		"2011": "Pilote FIA Institute Young Driver Excellence Academy",
+		"2012": "Formula Renault 2.0 Alps, 3ème",
+		"2013": "Champion en European Le Mans Series",
+		"2014": "Champion en European Le Mans Series",
+		"2015": "Championnat WEC 18e (4e LMP2)"
+	}
+}
+
+//Palmarès Oliver WEBB
+{
+	"Palmarès": {
+		"2009": "Championnat de Grande-Bretagne de Formule Renault, 3ème",
+		"2010": "Championnat de Grande-Bretagne de Formule Renault, 3ème",
+		"2012": "Firestone Indy Lights, 7ème",
+		"2013": "Formula Renault 3.5 Series, 15ème",
+		"2014": "Champion en European Le Mans Series",
+		"2015": "Championnat du monde d'endurance - LMP2, 7ème"
+	}
+}
+
+//Palmarès Tristan GOMMENDY
+{
+	"Palmarès": {
+		"2006": "Championnat de Belgique de Formule Renault 1.6, 12ème",
+		"2007": "Eurocup Formula Renault 2.0, non classé",
+		"2009": "Championnat d'Italie de Formule 3, 6ème",
+		"2010": "Championnat d'Italie de Formule 3, 2ème",
+		"2011": "World Series by Renault 3.5, 26ème",
+		"2012": "GP2 Series, 18ème",
+		"2013": "GP2 Series, 8ème",
+		"2014": "GP2 Series, 9ème",
+		"2015": "Blancpain Sprint Series , 6ème Blancpain Endurance Series, 17ème",
+		"2016": "LMP2"
+		
+	}
+}
