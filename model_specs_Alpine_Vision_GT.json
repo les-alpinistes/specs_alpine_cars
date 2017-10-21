@@ -1,0 +1,28 @@
+{
+	"Moteur": {
+		"Moteur": "V8",
+		"Cylindrée": "4 494 cm3",
+		"position": "centrale",
+		"Puissance Maxi": "450 hp à 5 400 tr/min",
+		"Vitesse de pointe ": "320 km/h"
+	},
+	"transmission": {
+		"type": "Propulsion",
+		"Couple Maxi": "580 Nm à 2 000 tr/min max 7 500 tr/min",
+		"boite de vistesse": "Automatique à double embrayage",
+		"nombre de rapports": "7 rapports avec mode séquentiel"
+	},
+	"CHÂSSIS": {
+		"Type": "monocoque en carbone",
+		"Suspension": "double triangulation, poussoirs, ressorts/amortisseurs ajustables"
+	},
+	"FREINS": {
+		"Avant": "Disques ventilés 390 mm x 32 mm avec étriers 6 pistons",
+		"Arrière": "Disques ventilés 355 mm x 32 mm avec étriers 4 pistons"
+	},
+	"Divers": {
+		"Poids": "900kg",
+		"Répartition des masses": "47 / 53",
+		"Réservoir": "75 litres"
+	}
+}
