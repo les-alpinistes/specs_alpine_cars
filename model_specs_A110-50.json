@@ -1,0 +1,20 @@
+{
+	"Moteur": {
+		"Moteur": "V4Y 6 cylindres 24 soupapes",
+		"cylindrée": "3498 cm³",
+		"position": "longitudinale centrale arrière",
+		"Puissance Maxi": "400 ch à 7 200 tr/min"
+	},
+	"transmission": {
+		"type": "Propulsion",
+		"Couple Maxi": "422 Nm à 6 200 tr/min"
+	},
+	"Dimenssion": {
+		"Poids annoncé": "880 kg"
+	},
+	"Châssis": {
+		"Type de châssis": "multitubulaire acier 25CD4S",
+		"Carrosserie": "carbone",
+		"Suspensions": "double triangles superposés, combinés ressort- amortisseurs Sachs réglables 2 voies et barre anti-roulis avant"
+	}
+}
