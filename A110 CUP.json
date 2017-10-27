@@ -1,0 +1,40 @@
+{
+  "CHÂSSIS": {
+    "Type": "Monocoque aluminium",
+    "Sécurité": "Arceau multipoints",
+    "Carrosserie": "Aluminium",
+    "Aérodynamique": "Fond plat, diffuseur, becquet arrière"
+  },
+  "MOTEUR": {
+    "type": "4 cylindres 1.8L 16s",
+    "Disposition": "Centrale arrière",
+    "Puissance": "270 ch à 6000 tr/min",
+    "Gestion électronique": "Magneti-Marelli SRG 140"
+  },
+  "TRANSMISSION": {
+    "Type": "Propulsion",
+    "Boîte de vitesses": "Séquentielle 6 rapports 3MO",
+    "Commande": "Palettes au volan",
+    "Différentiel": "Autobloquant à glissement limité",
+    "Embrayage": "Bi-disque acier fritté"
+  },
+  "TRAINS ROULANTS ET SUSPENSIONS": {
+    "Suspensions": "Double triangles superposés",
+    "Amortisseurs": "Öhlins réglables 2 voies",
+    "Freins AV": "Ø 355 x 32 mm, étriers 6 pistons Brembo",
+    "Freins AR": "Ø 333 x 32 mm, étriers 4 pistons Brembo",
+    "Direction": "Assistée électrique"
+  },
+  "ROUES": {
+    "Jantes": "Aluminium, 9x18’’ (AV) et 10x18’’ (AR)",
+    "Pneus": "Michelin 25-64x18 (AV) et 27-65x18 (AR)"
+  },
+  "DIMENSIONS, POIDS ET CAPACITÉS": {
+    "Longueur / largeur / hauteur": "4178 / 1798 / 1190 mm",
+    "Empattement": "2419 mm",
+    "Voies AV / AR": "1565 / 1570 mm",
+    "Réservoir de carburant": "Homologué FIA FT3, 65 litres",
+    "Poids": "Environ 1 050 kg"
+  }
+}
+
