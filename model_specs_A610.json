@@ -1,0 +1,21 @@
+{
+	"Moteur": {
+		"Moteur": "6 cylindres en V Turbo",
+		"cylindrée": "2975 cm³",
+		"position": "Porte-à-faux AR",
+		"Puissance Maxi": "250 ch",
+		"Vitesse Maximale": "265 km/h",
+		"0 à 100 km/h":"5\"9sec"
+	},
+	"transmission": {
+		"type": "Propulsion",
+		"Nb de vitesses": "5 rapports"
+	},
+	"Dimension": {
+		"Poids annoncé": "1420Kg",
+		"Longueur (mm)": "4415",
+		"Largeur (mm)": "1762",
+		"Hauteur (mm)": "1188",
+		"Empattement (mm)": "2340"
+	}
+}

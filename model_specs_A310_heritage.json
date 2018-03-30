@@ -1,0 +1,19 @@
+{
+	"Moteur": {
+		"Moteur": "4 cylindres en ligne / 6 cylindres en V",
+		"cylindrée": "1605 / 2664 cm³",
+		"position": "Porte-à-faux AR",
+		"Puissance Maxi": "125/150 ch",
+		"Vitesse Maximale": "205 et 226 km/h"
+	},
+	"transmission": {
+		"type": "Propulsion",
+		"Nb de vitesses": "4 ou 5 rapports"
+	},
+	"Dimension": {
+		"Poids annoncé": "930 et 1018 Kg",
+		"Longueur (mm)": "4180/4250",
+		"Largeur (mm)": "1620/1650",
+		"Hauteur (mm)": "1150"
+	}
+}

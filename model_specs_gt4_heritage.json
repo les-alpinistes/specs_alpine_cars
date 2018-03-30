@@ -1,0 +1,20 @@
+{
+	"Moteur": {
+		"Moteur": "4 cylindres en ligne",
+		"cylindrée": "1108 cm³",
+		"position": "Porte-à-faux AR",
+		"Puissance Maxi": "66 ch",
+		"Vitesse Maximale": "165 km/h"
+	},
+	"transmission": {
+		"type": "Propulsion",
+		"Nb de vitesses": "4 rapports"
+	},
+	"Dimension": {
+		"Poids annoncé": "600 Kg",
+		"Longueur (mm)": "4050",
+		"Largeur (mm)": "1500",
+		"Hauteur (mm)": "1270",
+		"Empattement  (mm)": "2270"
+	}
+}

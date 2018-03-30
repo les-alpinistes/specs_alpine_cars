@@ -1,0 +1,20 @@
+{
+	"Moteur": {
+		"Moteur": "4 cylindres en ligne",
+		"cylindrée": "1296 / 1565 cm³",
+		"position": "Porte-à-faux AR",
+		"Puissance Maxi": "110/125 ch",
+		"Vitesse Maximale": "215 et 205 km/h"
+	},
+	"transmission": {
+		"type": "Propulsion",
+		"Nb de vitesses": "4 ou 5 rapports"
+	},
+	"Dimension": {
+		"Poids annoncé": "625 et 680 Kg",
+		"Longueur (mm)": "3850",
+		"Largeur (mm)": "1520",
+		"Hauteur (mm)": "1130",
+		"Empattement  (mm)": "2100"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"Moteur": {
+		"Moteur": "6 cylindres en V",
+		"cylindrée": "2849 / 2458 cm³",
+		"position": "Porte-à-faux AR",
+		"Puissance Maxi": "160/200 ch",
+		"Vitesse Maximale": "235 et 250 km/h"
+	},
+	"transmission": {
+		"type": "Propulsion",
+		"Nb de vitesses": "5 rapports"
+	},
+	"Dimension": {
+		"Poids annoncé": "1140 et 1180 Kg",
+		"Longueur (mm)": "4330",
+		"Largeur (mm)": "1750",
+		"Hauteur (mm)": "1197"
+	}
+}

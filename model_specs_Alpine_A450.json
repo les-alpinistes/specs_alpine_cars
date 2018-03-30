@@ -2,13 +2,13 @@
 	"Moteur": {
 		"Moteur": "8 cylindres en V",
 		"Cylindrée": "4 494 cm3",
-		"position": "Centrale arrière",
+		"position": "Centrale arrière",
 		"Puissance Maxi": "500 ch",
 		"Vitesse de pointe ": "330 km/h"
 	},
 	"transmission": {
 		"type": "Propulsion",
-		"boite de vistesses": "à 6 rapports Xtrac"
+		"boite de vistesses": "à 6 rapports Xtrac"
 	},
 	"CHÂSSIS": {
 		"Type": "monocoque en carbone",
@@ -18,8 +18,8 @@
 		"Avant": "Disques ventilés 390 mm x 32 mm avec étriers 6 pistons",
 		"Arrière": "Disques ventilés 355 mm x 32 mm avec étriers 4 pistons"
 	},
-    "Dimension": {
-      "dimension": "4610 x 1995 x 1025 mm"
+    "Dimenssion": {
+      "dimenssion": "4610 x 1995 x 1025 mm"
     },
 	"Divers": {
 		"Poids": "900kg",

@@ -1,0 +1,19 @@
+{
+	"Moteur": {
+		"Moteur": "4 cylindres en ligne",
+		"cylindrée": "845 / 904 / 998 cm³",
+		"position": "Porte-à-faux AR",
+		"Puissance Maxi": "237 / 53 / 70 ch",
+		"Vitesse Maximale": "145 / 153 / 185 km/h"
+	},
+	"transmission": {
+		"type": "Propulsion",
+		"Nb de vitesses": "à 4 et 5 rapports"
+	},
+	"Dimension": {
+		"Poids annoncé": "600 Kg",
+		"Longueur (mm)": "Coach : 3 700 / Berlinette : 3 780",
+		"Largeur (mm)": "Coach : 1 450 / Berlinette : 1 450",
+		"Hauteur (mm)": "Coach : 1 270 / Berlinette : 1 120"
+	}
+}

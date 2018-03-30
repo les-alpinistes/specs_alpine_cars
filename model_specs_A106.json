@@ -1,0 +1,19 @@
+{
+	"Moteur": {
+		"Moteur": "4 cylindres en ligne",
+		"cylindrée": "747 cm³",
+		"position": "Porte-à-faux AR",
+		"Puissance Maxi": "21 et 38 ch",
+		"Vitesse Maximale": "125 et 145 km/h"
+	},
+	"transmission": {
+		"type": "Propulsion",
+		"Nb de vitesses": "à 3 et 5 rapports"
+	},
+	"Dimension": {
+		"Poids annoncé": "550 et 530 Kg",
+		"Longueur (mm)": "3700",
+		"Largeur (mm)": "1450",
+		"Hauteur (mm)": "1270"
+	}
+}
