@@ -1,0 +1,20 @@
+{
+	"Moteur": {
+		"Moteur": "6 cylindres en V",
+		"cylindrée": "2975 cm3",
+		"position": "Porte à faux AR",
+		"Puissance Maxi": "220 ch",
+		"Vitesse Maximale": "256 km/h"
+	},
+	"transmission": {
+		"type": "Propulsion",
+		"Nb de vitesses": "5 rapports"
+	},
+	"Dimension": {
+		"Poids annoncé": "925 Kg",
+		"Longueur (mm)": "4310",
+		"Largeur (mm)": "1820",
+		"Hauteur (mm)": "1120",
+		"Empattement  (mm)": "2270"
+	}
+}
